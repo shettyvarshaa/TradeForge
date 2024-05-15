@@ -1,0 +1,209 @@
+.data-rental-agreement2 {
+  margin: 0;
+  height: -0.687rem;
+  width: 36.813rem;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: -0.01em;
+  line-height: 150%;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.navigation6 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl) 0 var(--padding-2xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.blank-line4,
+.blank-line5,
+.data-description2,
+.rental-period2,
+.the-provider-agrees2,
+.this-data-rental2 {
+  margin: 0;
+}
+.the-rental-period2 {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.in-consideration-for2,
+.permitted-use2,
+.rental-fee2 {
+  margin: 0;
+}
+.the-renter-agrees4 {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.compliance-with-laws2,
+.entire-agreement2,
+.in-witness-whereof2,
+.the-renter-agrees5,
+.this-agreement-constitutes2 {
+  margin: 0;
+}
+.this-data-rental-container2 {
+  align-self: stretch;
+  height: 31.869rem;
+  position: relative;
+  letter-spacing: -0.02em;
+  line-height: 150%;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.component-51 {
+  margin: 0;
+  width: 1.438rem;
+  height: 1.438rem;
+  position: relative;
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  cursor: pointer;
+}
+.new-component {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-9xs) 0 0;
+}
+.i-agree-to2 {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: -0.01em;
+  line-height: 130%;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  min-width: 13.5rem;
+}
+.component1,
+.new-component-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.new-component-parent {
+  width: 22.938rem;
+  flex-wrap: wrap;
+  gap: var(--gap-xs);
+}
+.component1 {
+  align-self: stretch;
+}
+.sign-contract1 {
+  width: 10.688rem;
+  position: relative;
+  font-size: var(--font-size-5xl);
+  letter-spacing: -0.01em;
+  line-height: 130%;
+  font-family: var(--font-abhaya-libre);
+  color: var(--main-color-white);
+  text-align: center;
+  display: inline-block;
+}
+.button11 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-3xs) var(--padding-mid) var(--padding-3xs)
+    var(--padding-5xl);
+  background-color: var(--main-color-primary);
+  border-radius: var(--br-3xs);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  white-space: nowrap;
+}
+.button11:hover {
+  background-color: var(--color-cornflowerblue-100);
+}
+.component-parent,
+.content-inner {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.component-parent {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: var(--gap-5xl);
+}
+.content-inner {
+  width: 35.813rem;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 var(--padding-4xs);
+  box-sizing: border-box;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+}
+.content24 {
+  align-self: stretch;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-15xl-6);
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+}
+.content24,
+.navigation-parent,
+.right-menu2 {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.navigation-parent {
+  width: 57.25rem;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-69xl-3);
+}
+.right-menu2 {
+  width: 69.125rem;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-45xl);
+  color: var(--main-color-black);
+  font-family: var(--font-abhaya-libre);
+}
+@media screen and (max-width: 1050px) {
+  .data-rental-agreement2 {
+    font-size: var(--font-size-32xl);
+    line-height: 4.813rem;
+  }
+  .navigation-parent {
+    gap: 2.75rem 5.519rem;
+  }
+}
+@media screen and (max-width: 450px) {
+  .data-rental-agreement2 {
+    font-size: var(--font-size-19xl);
+    line-height: 3.625rem;
+  }
+  .i-agree-to2 {
+    font-size: var(--font-size-lgi);
+    line-height: 1.563rem;
+  }
+  .content24 {
+    gap: 1.063rem 2.163rem;
+  }
+  .navigation-parent {
+    gap: 1.375rem 5.519rem;
+  }
+}

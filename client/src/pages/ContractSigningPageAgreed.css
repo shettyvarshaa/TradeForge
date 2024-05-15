@@ -1,0 +1,279 @@
+.data-rental-agreement1 {
+  margin: 0;
+  height: -0.687rem;
+  width: 36.813rem;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: -0.01em;
+  line-height: 150%;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.data-rental-agreement-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl) 0 var(--padding-2xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.blank-line2,
+.blank-line3,
+.data-description1,
+.rental-period1,
+.the-provider-agrees1,
+.this-data-rental1 {
+  margin: 0;
+}
+.the-rental-period1 {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.in-consideration-for1,
+.permitted-use1,
+.rental-fee1 {
+  margin: 0;
+}
+.the-renter-agrees2 {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.compliance-with-laws1,
+.entire-agreement1,
+.in-witness-whereof1,
+.the-renter-agrees3,
+.this-agreement-constitutes1 {
+  margin: 0;
+}
+.in-witness-whereof1{
+  margin-bottom: 5rem;
+}
+.this-data-rental-container1 {
+  align-self: stretch;
+  height: 31.869rem;
+  position: relative;
+  letter-spacing: -0.02em;
+  line-height: 150%;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.input-field1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-8xs) 0 0;
+}
+.i-agree-to1 {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: -0.01em;
+  line-height: 130%;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  min-width: 13.5rem;
+}
+.input-field,
+.input-field-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.input-field-parent {
+  width: 23.063rem;
+  flex-wrap: wrap;
+  gap: var(--gap-2xs);
+}
+.input-field {
+  align-self: stretch;
+}
+.sign-contract {
+  width: 10.688rem;
+  position: relative;
+  font-size: var(--font-size-5xl);
+  letter-spacing: -0.01em;
+  line-height: 130%;
+  font-family: var(--font-abhaya-libre);
+  color: var(--main-color-white);
+  text-align: center;
+  display: inline-block;
+}
+.button3,
+.sign-button {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.button3 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-3xs) var(--padding-5xl);
+  background-color: var(--main-color-primary);
+  flex: 1;
+  border-radius: var(--br-3xs);
+  justify-content: flex-start;
+  white-space: nowrap;
+}
+.button3:hover,
+.button4:hover {
+  background-color: var(--color-cornflowerblue-100);
+}
+.sign-button {
+  width: 16.688rem;
+  justify-content: flex-end;
+  padding: 0 var(--padding-sm);
+  box-sizing: border-box;
+}
+.pay-through-metamask1 {
+  width: 13.875rem;
+  position: relative;
+  font-size: var(--font-size-5xl);
+  letter-spacing: -0.01em;
+  line-height: 130%;
+  font-family: var(--font-abhaya-libre);
+  color: var(--main-color-white);
+  text-align: center;
+  display: inline-block;
+}
+.button4 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-3xs) var(--padding-xl) var(--padding-3xs)
+    var(--padding-5xl);
+  background-color: var(--main-color-primary);
+  border-radius: var(--br-3xs);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  white-space: nowrap;
+}
+.component-state,
+.component-state-wrapper {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.component-state {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: var(--gap-4xl);
+}
+.component-state-wrapper {
+  width: 37rem;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 0.438rem;
+  box-sizing: border-box;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+}
+.this-data-rental-agreement-th-parent {
+  align-self: stretch;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-15xl-6);
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+}
+.frame-parent5,
+.frame-wrapper5,
+.this-data-rental-agreement-th-parent {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-parent5 {
+  height: auto;
+  width: 57.25rem;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-69xl-3);
+}
+.frame-wrapper5 {
+  width: 69.125rem;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-45xl);
+  color: var(--main-color-black);
+  font-family: var(--font-abhaya-libre);
+}
+.contract-signing-page-agreed,
+.navbar-group {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.navbar-group {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-43xl-4);
+  max-width: calc(100% - 280px);
+}
+.contract-signing-page-agreed {
+  width: 100%;
+  position: relative;
+  background-color: var(--main-color-white);
+  overflow: hidden;
+  flex-direction: row;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1125px) {
+  .navbar-group {
+    gap: 1.938rem 3.9rem;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .data-rental-agreement1 {
+    font-size: var(--font-size-32xl);
+    line-height: 4.813rem;
+  }
+  .frame-parent5 {
+    gap: 2.75rem 5.519rem;
+  }
+  .navbar-group {
+    max-width: 100%;
+  }
+  .contract-signing-page-agreed {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 750px) {
+  .navbar-group {
+    gap: 1rem 3.9rem;
+  }
+}
+@media screen and (max-width: 450px) {
+  .data-rental-agreement1 {
+    font-size: var(--font-size-19xl);
+    line-height: 3.625rem;
+  }
+  .i-agree-to1 {
+    font-size: var(--font-size-lgi);
+    line-height: 1.563rem;
+  }
+  .button4 {
+    gap: 3.438rem 1.688rem;
+  }
+  .this-data-rental-agreement-th-parent {
+    gap: 1.063rem 2.163rem;
+  }
+  .frame-parent5 {
+    gap: 1.375rem 5.519rem;
+  }
+}

@@ -1,0 +1,295 @@
+.data-rental-agreement {
+  margin: 0 !important;
+  width: 36.813rem;
+  position: absolute;
+  top: -5.625rem;
+  right: 10.188rem;
+  font-size: inherit;
+  letter-spacing: -0.01em;
+  line-height: 150%;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+}
+.blank-line,
+.blank-line1,
+.data-description,
+.rental-period,
+.the-provider-agrees,
+.this-data-rental {
+  margin: 0;
+}
+.the-rental-period {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.in-consideration-for,
+.permitted-use,
+.rental-fee {
+  margin: 0;
+}
+.the-renter-agrees {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.compliance-with-laws,
+.entire-agreement,
+.in-witness-whereof,
+.the-renter-agrees1,
+.this-agreement-constitutes {
+  margin: 0;
+}
+.this-data-rental-container {
+  height: 34.375rem;
+  flex: 1;
+  position: relative;
+  font-size: var(--font-size-lg);
+  letter-spacing: -0.02em;
+  line-height: 150%;
+  color: var(--color-black);
+  display: inline-block;
+  max-width: 100%;
+  z-index: 1;
+}
+.data-rental-agreement-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  max-width: 100%;
+}
+.component-5-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: transparent;
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+}
+.component-5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1.625rem;
+  height: 1.625rem;
+  z-index: 2;
+}
+.component-2state3-parent {
+  width: 1.688rem;
+  height: 1.688rem;
+  position: relative;
+}
+.frame-wrapper4 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-9xs) 0 0;
+}
+.i-agree-to {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: -0.01em;
+  line-height: 130%;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  min-width: 13.5rem;
+}
+.frame-parent3,
+.frame-wrapper3 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-parent3 {
+  width: 22.938rem;
+  flex-wrap: wrap;
+  gap: var(--gap-5xs);
+}
+.frame-wrapper3 {
+  align-self: stretch;
+}
+.signed {
+  width: 5.063rem;
+  position: relative;
+  font-size: var(--font-size-5xl);
+  letter-spacing: -0.01em;
+  line-height: 130%;
+  font-family: var(--font-abhaya-libre);
+  color: var(--main-color-white);
+  text-align: center;
+  display: inline-block;
+  min-width: 5.063rem;
+}
+.button1,
+.wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.button1 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-3xs) var(--padding-5xl);
+  background-color: var(--action-green-green-60);
+  flex: 1;
+  border-radius: var(--br-3xs);
+}
+.button1:hover {
+  background-color: #389c6e;
+}
+.wrapper {
+  width: 11.688rem;
+  padding: 0 var(--padding-8xl);
+  box-sizing: border-box;
+}
+.pay-through-metamask {
+  width: 13.875rem;
+  position: relative;
+  font-size: var(--font-size-5xl);
+  letter-spacing: -0.01em;
+  line-height: 130%;
+  font-family: var(--font-abhaya-libre);
+  color: var(--main-color-white);
+  text-align: center;
+  display: inline-block;
+}
+.button2 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-3xs) var(--padding-xl) var(--padding-3xs)
+    var(--padding-5xl);
+  background-color: var(--main-color-primary);
+  border-radius: var(--br-3xs);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  white-space: nowrap;
+}
+.button2:hover {
+  background-color: var(--color-cornflowerblue-100);
+}
+.frame-parent2,
+.frame-parent4 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.frame-parent4 {
+  align-items: flex-start;
+  gap: 1.688rem;
+}
+.frame-parent2 {
+  flex: 1;
+  align-items: flex-end;
+  gap: var(--gap-5xl);
+  max-width: 100%;
+}
+.frame-wrapper2 {
+  width: 37.5rem;
+  flex-direction: row;
+  justify-content: flex-start;
+  padding: 0 var(--padding-4xs);
+  box-sizing: border-box;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+}
+.frame-parent1,
+.frame-wrapper1,
+.frame-wrapper2 {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-parent1 {
+  width: 57.25rem;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 2.313rem;
+}
+.frame-wrapper1 {
+  width: 69.125rem;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-45xl);
+  color: var(--main-color-black);
+  font-family: var(--font-abhaya-libre);
+}
+.navbar-parent,
+.pre-payment-page {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.navbar-parent {
+  flex: 1;
+  flex-direction: column;
+  gap: 6.063rem;
+  max-width: calc(100% - 280px);
+}
+.pre-payment-page {
+  width: 100%;
+  position: relative;
+  background-color: var(--main-color-white);
+  overflow: hidden;
+  flex-direction: row;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1125px) {
+  .navbar-parent {
+    gap: 3rem 6.063rem;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .data-rental-agreement {
+    font-size: var(--font-size-32xl);
+    line-height: 4.813rem;
+  }
+  .navbar-parent {
+    max-width: 100%;
+  }
+  .pre-payment-page {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 750px) {
+  .navbar-parent {
+    gap: 1.5rem 6.063rem;
+  }
+}
+@media screen and (max-width: 450px) {
+  .data-rental-agreement {
+    font-size: var(--font-size-19xl);
+    line-height: 3.625rem;
+  }
+  .i-agree-to,
+  .signed {
+    font-size: var(--font-size-lgi);
+    line-height: 1.563rem;
+  }
+  .button2 {
+    gap: 3.438rem 1.688rem;
+  }
+  .frame-parent1 {
+    gap: 1.125rem 2.313rem;
+  }
+}

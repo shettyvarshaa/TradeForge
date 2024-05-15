@@ -1,0 +1,138 @@
+.sidebar-icon {
+  height: 64rem;
+  width: 17.5rem;
+  object-fit: contain;
+  transform: rotate(-0.1deg);
+}
+.you-have-successfully {
+  width: 33.938rem;
+  position: relative;
+  letter-spacing: -0.01em;
+  line-height: 2.625rem;
+  display: inline-block;
+  transform: rotate(-0.1deg);
+}
+.success-message {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl) 0 3rem;
+}
+.your-secret-key {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 3.125rem;
+  font-weight: 400;
+  font-family: inherit;
+  transform: rotate(-0.1deg);
+}
+.success-message-parent,
+.your-secret-key-wrapper {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+}
+.your-secret-key-wrapper {
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-3xl) 0 var(--padding-xl);
+  text-align: left;
+  font-size: 3.75rem;
+  color: #55d45b;
+}
+.success-message-parent {
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 6.031rem;
+  max-width: 100%;
+}
+.post-payment-page,
+.post-payment-page-inner {
+  box-sizing: border-box;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.post-payment-page-inner {
+  width: 51.438rem;
+  flex-direction: column;
+  padding: 8.563rem 0 0;
+  min-width: 51.438rem;
+  max-width: 100%;
+}
+.post-payment-page {
+  width: 100%;
+  position: relative;
+  background-color: var(--main-color-white);
+  border: 1px solid var(--color-gray-100);
+  overflow: hidden;
+  flex-direction: row;
+  padding: var(--padding-12xs) 0;
+  gap: var(--gap-101xl);
+  transform: rotate(0.1deg);
+  transform-origin: 0 0;
+  letter-spacing: normal;
+  text-align: center;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-abhaya-libre);
+}
+@media screen and (max-width: 1125px) {
+  .post-payment-page-inner,
+  .sidebar-icon {
+    flex: 1;
+  }
+  .post-payment-page {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .you-have-successfully {
+    font-size: var(--font-size-7xl);
+    line-height: 2.063rem;
+  }
+  .your-secret-key {
+    font-size: var(--font-size-29xl);
+    line-height: 2.5rem;
+  }
+  .success-message-parent {
+    gap: 3rem 6.031rem;
+  }
+  .post-payment-page-inner {
+    padding-top: 5.563rem;
+    box-sizing: border-box;
+    min-width: 100%;
+  }
+}
+@media screen and (max-width: 750px) {
+  .success-message {
+    padding-left: var(--padding-5xl);
+    box-sizing: border-box;
+  }
+  .post-payment-page-inner {
+    padding-top: var(--padding-39xl);
+    box-sizing: border-box;
+  }
+  .post-payment-page {
+    gap: 7.5rem 3.75rem;
+  }
+}
+@media screen and (max-width: 450px) {
+  .you-have-successfully {
+    font-size: var(--font-size-lgi);
+    line-height: 1.563rem;
+  }
+  .your-secret-key {
+    font-size: var(--font-size-17xl);
+    line-height: 1.875rem;
+  }
+  .success-message-parent {
+    gap: 1.5rem 6.031rem;
+  }
+  .post-payment-page {
+    gap: 7.5rem 1.875rem;
+  }
+}

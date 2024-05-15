@@ -1,0 +1,238 @@
+.tradeforge1 {
+  color: var(--color-limegreen-200);
+}
+.forging-trust-in1,
+.welcome-to-tradeforge-container1 {
+  position: relative;
+  letter-spacing: -0.01em;
+  line-height: 130%;
+}
+.welcome-to-tradeforge-container1 {
+  margin: 0;
+  align-self: stretch;
+  font-size: inherit;
+  font-family: inherit;
+}
+.forging-trust-in1 {
+  width: 17.625rem;
+  display: inline-block;
+}
+.forging-trust-in-trading-data-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-2xl) 0 var(--padding-xl);
+  font-size: var(--font-size-6xl);
+  color: var(--color-dimgray-100);
+}
+.welcome-to-tradeforge-group {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.get-started1,
+.text37 {
+  align-self: stretch;
+  position: relative;
+}
+.get-started1 {
+  font-size: var(--font-size-5xl);
+  letter-spacing: -0.01em;
+  line-height: 130%;
+  font-family: var(--font-abhaya-libre);
+  color: var(--main-color-white);
+  text-align: center;
+  display: inline-block;
+  min-width: 6.688rem;
+  white-space: nowrap;
+}
+.text37 {
+  font-size: var(--body-medium-medium-size);
+  line-height: 150%;
+  font-weight: 500;
+  font-family: var(--body-medium-medium);
+  color: var(--additional-colors-green);
+  text-align: left;
+}
+.badge-text-green4 {
+  height: 1.5rem;
+  border-radius: var(--br-81xl);
+  background-color: var(--additional-colors-green-tint);
+  overflow: hidden;
+  display: none;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 0 var(--padding-5xs);
+  box-sizing: border-box;
+}
+.badge-text-green-wrapper1 {
+  width: 4.063rem;
+  height: 1.625rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  z-index: 1;
+}
+.button13,
+.text36 {
+  display: flex;
+  box-sizing: border-box;
+}
+.text36 {
+  height: 1.313rem;
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 0;
+}
+.button13 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-5xl) var(--padding-8xl) var(--padding-5xl)
+    var(--padding-5xl);
+  background-color: var(--action-green-green-80);
+  width: 9.875rem;
+  border-radius: var(--br-base);
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.browse-trade-secrets1,
+.text39 {
+  align-self: stretch;
+  position: relative;
+}
+.browse-trade-secrets1 {
+  font-size: var(--font-size-5xl);
+  letter-spacing: -0.01em;
+  line-height: 130%;
+  font-family: var(--font-abhaya-libre);
+  color: var(--main-color-white);
+  text-align: center;
+}
+.text39 {
+  font-size: var(--body-medium-medium-size);
+  line-height: 150%;
+  font-weight: 500;
+  font-family: var(--body-medium-medium);
+  color: var(--additional-colors-green);
+  text-align: left;
+}
+.badge-text-green5 {
+  height: 1.5rem;
+  border-radius: var(--br-81xl);
+  background-color: var(--additional-colors-green-tint);
+  overflow: hidden;
+  display: none;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 0 var(--padding-5xs);
+  box-sizing: border-box;
+}
+.badge-text-green-wrapper2 {
+  width: 4.063rem;
+  height: 1.625rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  z-index: 1;
+}
+.button14,
+.parent,
+.text38 {
+  box-sizing: border-box;
+  display: flex;
+}
+.text38 {
+  height: 1.625rem;
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 0;
+}
+.button14,
+.parent {
+  border-radius: var(--br-base);
+  align-items: center;
+  justify-content: flex-start;
+}
+.button14 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-5xl) var(--padding-lgi) var(--padding-5xl)
+    var(--padding-5xl);
+  background-color: var(--main-color-primary);
+  width: 15.063rem;
+  flex-direction: row;
+}
+.parent {
+  width: 26.125rem;
+  height: 16.5rem;
+  border: 1px solid var(--greyscale-grey-200);
+  flex-direction: column;
+  padding: var(--padding-5xl) var(--padding-xl);
+  gap: var(--gap-21xl);
+  max-width: 100%;
+}
+.frame-parent30,
+.post-sign-in-welcome-page-inner {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-parent30 {
+  width: 30.063rem;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-67xl);
+}
+.post-sign-in-welcome-page-inner {
+  width: 72.188rem;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  text-align: center;
+  font-size: var(--font-size-31xl);
+  color: var(--color-black);
+  font-family: var(--font-abhaya-libre);
+}
+@media screen and (max-width: 750px) {
+  .welcome-to-tradeforge-container1 {
+    font-size: var(--font-size-21xl);
+    line-height: 3.25rem;
+  }
+}
+@media screen and (max-width: 675px) {
+  .frame-parent30 {
+    gap: 2.688rem 5.375rem;
+  }
+}
+@media screen and (max-width: 450px) {
+  .welcome-to-tradeforge-container1 {
+    font-size: var(--font-size-11xl);
+    line-height: 2.438rem;
+  }
+  .forging-trust-in1 {
+    font-size: var(--font-size-xl);
+    line-height: 1.625rem;
+  }
+  .browse-trade-secrets1,
+  .get-started1 {
+    font-size: var(--font-size-lgi);
+    line-height: 1.563rem;
+  }
+  .parent {
+    gap: 1.25rem 2.5rem;
+  }
+}

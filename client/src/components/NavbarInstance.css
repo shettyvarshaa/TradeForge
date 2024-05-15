@@ -1,0 +1,47 @@
+.tradeforge3 {
+  color: var(--color-limegreen-200);
+}
+.tradeforge2 {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: -0.01em;
+  line-height: 130%;
+  white-space: nowrap;
+  z-index: 1;
+  font-family: inherit;
+}
+.c-r-e-a-t-e-y-o-u-r-d-a-t-a-t,
+.navbar-instance1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.c-r-e-a-t-e-y-o-u-r-d-a-t-a-t {
+  width: 22.188rem;
+  flex-direction: row;
+  padding: 0 var(--padding-35xl);
+  box-sizing: border-box;
+  margin-top: -6.875rem;
+  text-align: center;
+  font-size: var(--font-size-31xl);
+  color: var(--color-black);
+}
+.navbar-instance1 {
+  align-self: stretch;
+  height: 7.875rem;
+  flex-direction: column;
+  text-align: left;
+  font-size: var(--body-medium-medium-size);
+  color: var(--main-color-black);
+  font-family: var(--font-abhaya-libre);
+}
+@media screen and (max-width: 450px) {
+  .c-r-e-a-t-e-y-o-u-r-d-a-t-a-t {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+}

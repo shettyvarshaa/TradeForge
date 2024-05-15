@@ -1,0 +1,40 @@
+.component,
+.contract-signing-page {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.component {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-43xl-4);
+  max-width: calc(100% - 280px);
+}
+.contract-signing-page {
+  width: 100%;
+  position: relative;
+  background-color: var(--main-color-white);
+  overflow: hidden;
+  flex-direction: row;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1125px) {
+  .component {
+    gap: 1.938rem 3.9rem;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .component {
+    max-width: 100%;
+  }
+  .contract-signing-page {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 750px) {
+  .component {
+    gap: 1rem 3.9rem;
+  }
+}

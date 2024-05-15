@@ -1,0 +1,28 @@
+.post-sign-in-welcome-page {
+  position: relative;
+  background-color: var(--main-color-white);
+  width: 100%;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: var(--padding-11xl) 6.313rem var(--padding-306xl) 0;
+  box-sizing: border-box;
+  gap: 6rem;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 750px) {
+  .post-sign-in-welcome-page {
+    gap: 3rem 6rem;
+    padding-right: var(--padding-31xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .post-sign-in-welcome-page {
+    gap: 1.5rem 6rem;
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+}
