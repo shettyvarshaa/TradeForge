@@ -1,3 +1,4 @@
+import React from "react";
 import ContinueButton from "../components/ContinueButton";
 import "./PostPaymentPage.css";
 

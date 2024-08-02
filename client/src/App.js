@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import React, { useEffect, useState } from "react";
 import {
   Routes,
   Route,
@@ -17,6 +17,7 @@ import SelectedPMSPage1 from "./pages/SelectedPMSPage1";
 import CourseRegistration from "./pages/CourseRegistration";
 import { contractABI } from "./abi";
 import { Admin } from "./pages/Admin";
+import Web3 from 'web3';
 
 function App() {
 

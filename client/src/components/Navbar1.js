@@ -1,3 +1,4 @@
+import React from "react";
 import "./Navbar1.css";
 
 const Navbar1 = () => {

@@ -1,4 +1,4 @@
-import { useMemo } from "react";
+import React, { useMemo } from "react";
 import "./Component2state.css";
 
 const Component2state = ({ propPosition, propTop, propLeft }) => {

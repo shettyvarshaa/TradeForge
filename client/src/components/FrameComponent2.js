@@ -1,3 +1,4 @@
+import React from "react";
 import "./FrameComponent2.css";
 
 const FrameComponent2 = () => {

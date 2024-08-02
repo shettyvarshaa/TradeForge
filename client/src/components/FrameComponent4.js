@@ -1,3 +1,4 @@
+import React from "react";
 import "./FrameComponent4.css";
 
 const FrameComponent4 = () => {

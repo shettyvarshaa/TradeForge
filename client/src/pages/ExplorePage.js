@@ -1,4 +1,4 @@
-import { useCallback } from "react";
+import React, { useCallback } from "react";
 import { useNavigate } from "react-router-dom";
 import FrameComponent3 from "../components/FrameComponent3";
 import "./ExplorePage.css";

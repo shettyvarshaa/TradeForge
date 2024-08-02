@@ -1,4 +1,4 @@
-import { useMemo } from "react";
+import React, { useMemo } from "react";
 import "./Sidebar.css";
 
 const Sidebar = ({

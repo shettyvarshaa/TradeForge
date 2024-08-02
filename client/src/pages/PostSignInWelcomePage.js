@@ -1,3 +1,4 @@
+import React from "react";
 import FrameComponent2 from "../components/FrameComponent2";
 import FrameComponent1 from "../components/FrameComponent1";
 import "./PostSignInWelcomePage.css";

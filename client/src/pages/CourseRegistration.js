@@ -1,4 +1,4 @@
-import {useState} from "react";
+import React, {useState} from "react";
 
 const CourseRegistration = ({web3, courseContract, courseFee}) => {
     const [email, setEmail] = useState('');

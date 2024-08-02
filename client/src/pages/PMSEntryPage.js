@@ -1,3 +1,4 @@
+import React from "react";
 import NavbarInstance from "../components/NavbarInstance";
 import "./PMSEntryPage.css";
 
